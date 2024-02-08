@@ -10,22 +10,12 @@
 - Implemented automated caching using Redis, Celery, and Celery Beat to optimise performance and minimise redundant API calls.
 - Conducted testing using Selenium, JMeter, Lighthosue, and Pytest to ensure application functionality and reliability.
 - Deployed the application on a UCD virtual machine usng Docker and an Apache HTTP server.
+- Group members: Cormac Egan, Maximilian Girt, Yuntao Wei, Colmán Larkin, Zhan Li, Nicholas Hegarty
 
 ## How to run the project
 
-Submission link for group 5:
-https://csi6220-2-vm4.ucd.ie/#
-
-Group members:
-- Zhan Li
-- Cormac Egan
-- Maximilian Girt
-- Nicholas Hegarty
-- Colmán Larkin
-- Yuntao Wei
-
 Steps:
-To access our website you can use the link provided above
+To access our website you can use the link https://csi6220-2-vm4.ucd.ie/# (Update: the VM has since been shutdown as the project has been graded)
 
 Alternatively, if you wish to run the website locally you can clone our repository (ensuring that you work off of main). 
  It is recommended that you create an anaconda environment and use the requirements.txt file to install the necessary modules to run the python backend. 
