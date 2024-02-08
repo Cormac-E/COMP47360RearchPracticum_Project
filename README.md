@@ -12,6 +12,18 @@
 - Deployed the application on a UCD virtual machine usng Docker and an Apache HTTP server.
 - Group members: Cormac Egan, Maximilian Girt, Yuntao Wei, Colmán Larkin, Zhan Li, Nicholas Hegarty
 
+## Architecture & UI
+
+Overview of the System Architecture
+<p><img src="distributed_system_architecture.png" alt="Architecture" width="600"></p>
+
+Desktop View of the UI
+<p><img src="distributed_desktop.jpeg" alt="Desktop View" width="600"></p>
+
+Mobile View of the UI
+<p><img src="distributed_mobile.jpg" alt="Mobile View" width="400"></p>
+
+
 ## How to run the project
 
 Steps:
