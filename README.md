@@ -1,5 +1,18 @@
 # COMP47360RearchPracticum_Project
 
+## Overview of the Project
+- Coffee Compass, our web-based data analytics application developed for the MSc Research Practicum, offers predictive insights into busyness levels across Manhattan. Its primary aim is to assist prospective cafe owners in making informed decisions when deciding where to locate their cafe.
+- Utilised XGBoost machine learning model trained on open-source transport data to predict daily, weekly, and monthly busyness levels.
+- Integrated diverse datasets including cafe density, crime rates, property prices, and transit links for comprehensive decision support.
+- Designed an intuitive map-based interface using React, Mapbox, and Chart.js to effectively convey data insights.
+- Incorporated Yelp API to provide users with reviews and listings of existing cafes for market analysis.
+- Engineered the back-end using Django, Redis Cache, and PostgresSQL database to efficiently manage predictions and cafe data.
+- Implemented automated caching using Redis, Celery, and Celery Beat to optimise performance and minimise redundant API calls.
+- Conducted testing using Selenium, JMeter, Lighthosue, and Pytest to ensure application functionality and reliability.
+- Deployed the application on a UCD virtual machine usng Docker and an Apache HTTP server.
+
+## How to run the project
+
 Submission link for group 5:
 https://csi6220-2-vm4.ucd.ie/#
 
