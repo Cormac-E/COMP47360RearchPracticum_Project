@@ -1,6 +1,6 @@
 # COMP47360RearchPracticum_Project
 
-## Overview of the Project
+## Overview of the Project
 - Coffee Compass, our web-based data analytics application developed for the MSc Research Practicum, offers predictive insights into busyness levels across Manhattan. Its primary aim is to assist prospective cafe owners in making informed decisions when deciding where to locate their cafe.
 - Utilised XGBoost machine learning model trained on open-source transport data to predict daily, weekly, and monthly busyness levels.
 - Integrated diverse datasets including cafe density, crime rates, property prices, and transit links for comprehensive decision support.
