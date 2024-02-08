@@ -1,4 +1,4 @@
-# COMP47360RearchPracticum_Project
+# Coffee Compass MSc Research Practicum
 
 ## Overview of the Project
 - Coffee Compass, our web-based data analytics application developed for the MSc Research Practicum, offers predictive insights into busyness levels across Manhattan. Its primary aim is to assist prospective cafe owners in making informed decisions when deciding where to locate their cafe.
@@ -11,6 +11,7 @@
 - Conducted testing using Selenium, JMeter, Lighthosue, and Pytest to ensure application functionality and reliability.
 - Deployed the application on a UCD virtual machine usng Docker and an Apache HTTP server.
 - Group members: Cormac Egan, Maximilian Girt, Yuntao Wei, Colmán Larkin, Zhan Li, Nicholas Hegarty
+- The full report can be read [here](main/MSc_Research_Practicum_Report.pdf)
 
 ## Architecture & UI
 
