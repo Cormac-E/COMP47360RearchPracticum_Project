@@ -11,7 +11,7 @@
 - Conducted testing using Selenium, JMeter, Lighthosue, and Pytest to ensure application functionality and reliability.
 - Deployed the application on a UCD virtual machine usng Docker and an Apache HTTP server.
 - Group members: Cormac Egan, Maximilian Girt, Yuntao Wei, Colmán Larkin, Zhan Li, Nicholas Hegarty
-- The full report can be read [here](main/MSc_Research_Practicum_Report.pdf)
+- The full report can be read [here](MSc_Research_Practicum_Report.pdf)
 
 ## Architecture & UI
 
